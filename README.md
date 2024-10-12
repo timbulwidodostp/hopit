@@ -1,6 +1,8 @@
 # hopit
 Generalized hierarchical ordered threshold models Use hopit With (In) R Software
 
+https://www.youtube.com/watch?v=GAZB3d2qQDA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
